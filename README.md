@@ -1,4 +1,4 @@
-# calculator_bloc
+# calculator_cubit
 
-Дефолтный калькулятор сделанный с помощью BloC 
+Дефолтный калькулятор сделанный с помощью cubit
 ![Пример](readmeContent/screenshot.png)
